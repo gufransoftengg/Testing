@@ -3,5 +3,9 @@ new hasan
 myrepo hasan
 i am in new branch
 live
+<<<<<<< HEAD
 I am working in myrepo
 
+=======
+I am working in mybranch
+>>>>>>> fbe8a7f202e4316ea12254b0f2b4f86ea53de942
